@@ -51,4 +51,4 @@ employeeList.addEmployee("Diana Prince", "Human Resources", 68000.00);
 employeeList.addEmployee("Evan Davis", "Finance", 72000.00);
 
 employeeList.displayEmployees();
-console.log("everything works fine");
+console.log("everything works");
